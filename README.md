@@ -1,9 +1,13 @@
-# java-testing
+# Java Testing
 
-Project to garther libs and tools to perform tests.
+Project to gather libs and tools to perform tests.
 
-## Projects
+## Projects:
 
 ### api-messages-to-test
 Simple project that will be tested.
 To build and run container with Payara: `sh buildAndRun.sh`
+
+
+### Rest Assured (rest-assured-test)
+Fluent API to test REST API.
